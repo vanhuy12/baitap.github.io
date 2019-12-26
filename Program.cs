@@ -87,7 +87,6 @@ namespace SVTK
                 }
             }
             Console.ReadKey();
-            Console.WriteLine("Thay doi !!");
         }
     }
 }
